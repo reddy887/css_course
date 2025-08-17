@@ -1,0 +1,26 @@
+#re {
+    color:red;
+    background-color: blue;
+    text-align: center;
+    font-size: 40px;
+}
+re:hover{
+    width:20px;
+    height:20px;
+    color:rgb(22, 7, 36);
+}
+#r{
+    color:white;
+    background:red;
+    text-align:center;
+}
+.box{
+    color:yellowgreen;
+    background:yellow;
+}
+.bx{
+    color: red;
+    background: green;
+    border-radius: 5px;
+    border:5px dought red;
+}
