@@ -3,3 +3,8 @@ div p{
     background:yellow;
     border-radius:15px;
 }
+body > div{
+    color:green;
+    background-color: black;
+    text-align: center;
+}
