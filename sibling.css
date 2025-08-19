@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+    color:red;
+}
+div+h1 {
+    color: blue;
+    font-size: 45px;
+    text-align: right;
+}
