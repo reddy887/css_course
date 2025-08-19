@@ -2,12 +2,23 @@ div p{
     color:red;
     background-color: black;
     border-radius: 10px;
-}
+} 
 div h1{
     color:blue;
     background-color: red;
-    border-radius: 14px;
-    border-style: dashed;
-    border-color: green;
-    border:  solid blue;
+    border-radius:14px;
+    border: solid blue;
+    border-style:dashed;
+}
+.re > p
+{
+    color:darkgoldenrod;
+    text-align: center ;
+
+}
+a:hover{
+    color:pink;
+}
+a:visited{
+    color: blueviolet;
 }
