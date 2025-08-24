@@ -27,6 +27,15 @@ a:hover{
 a:active{
     color:aquamarine;
 }
-a{
-    text-align: justify;
+input:focus{
+    outline: 1px solid red;
+    
+}
+input{
+    outline:1px solid blue;
+    border-color: red;
+}
+input::placeholder{
+
+    color:pink;
 }
