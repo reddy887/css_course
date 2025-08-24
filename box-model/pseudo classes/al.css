@@ -1,0 +1,32 @@
+div {
+    background:  red;
+    width:25px;
+    height:25px;
+}
+h1{
+    color:red;
+    text-align:center;
+    background: green;
+    background-color: blue;
+}
+h1:hover{
+    background-color: skyblue;
+    text-align: end;
+    text-align: center;
+}
+a:link{
+    color:pink;
+}
+a:visited{
+    color:blue;
+}
+a:hover{
+    font-size:20px;
+    color:gold;
+}
+a:active{
+    color:aquamarine;
+}
+a{
+    text-align: justify;
+}
