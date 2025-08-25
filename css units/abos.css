@@ -1,24 +1,27 @@
-*{
+/* *{
     margin:0;
     padding: 0;
     box-sizing: border-box;
+} */
+h1{
+    text-align:center;
+    color:blue;
 }
 body{
     background-color: black;
     color:white;
 }
-div{
-    background-color: red;
-    width:400px;
+div {
+     height: 20px;
+    margin-bottom: 20px;
 }
 .pixel {
-    height: 20px;
-    margin: 20px;
+    background-color: red;
+    width: 200px;
+
 }
 .per {
-    height: 20px; 
-}
-h1{
-    text-align:center;
-    color:blue;
+    background-color: skyblue;
+        width:50%; 
+
 }
