@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color:red;
+    background-color: aqua;
+}
+p{
+    color:aquamarine;
+    background: blue;
+}
+div{
+    color:red;
+    height:20px;
+    background:pink;
+    margin-top: 10px;
+}
+
+.re {
+    width:20%;
+}
+.re1{
+    width:100px;
+    background:red;
+}
+.re2{
+    width:20px;
+    background-color: brown;
+}
