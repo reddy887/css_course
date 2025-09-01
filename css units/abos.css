@@ -22,6 +22,9 @@ div {
 }
 .per {
     background-color: skyblue;
-        width:50%; 
-
+        width:50%
+}
+.vw {
+    background-color: blue;
+    width:50vw;
 }
