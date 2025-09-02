@@ -1,3 +1,5 @@
+/* this is the way to connect tyhe font style to text */
+@import url('https://fonts.googleapis.com/css2?family=Story+Script&display=swap');
 body{
     text-align: center;
     color: red;
