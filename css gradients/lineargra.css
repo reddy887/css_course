@@ -1,6 +1,17 @@
-h1 {
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+/* h1 {
   text-align: center;
   color: red;
   text-decoration-line: underline;
   text-decoration-color: black;
+}  */
+/* body {
+  background: linear-gradient(45deg, yellow, red, blue);
+} */
+body {
+  background: conic-gradient(from 0deg, #ff7e5f, #feb47b, #6a82fb, #ff7e5f);
 }
