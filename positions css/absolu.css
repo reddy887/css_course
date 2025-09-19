@@ -10,12 +10,13 @@ body {
   text-align: center;
 }
 div {
-  width: 20%;
-  height: 200px;
+  width: 10%;
+  height: 300px;
   margin: 10px;
 }
 .static {
   position: static;
+  border-color: red;
   color: blue;
   background: linear-gradient(green, blue);
 }
@@ -27,12 +28,25 @@ div {
   top: 100px;
 }
 .absolu {
+  margin: 0;
   position: absolute;
+  width: 100px;
   height: 100px;
-  top: 100%;
-  bottom: 100px;
-  left: 100px;
-  background: red;
+  background-color: hsl(80, 55%, 61%);
+  left: 20px;
+  top: 20px;
+}
+.fixed {
+  background-color: darkblue;
+  position: fixed;
+  /* left: 200px; */
+  top: 200px;
+  right: 0;
+}
+.stic {
+  background-color: aliceblue;
+  position: sticky;
+  top: 20px;
 }
 h1 {
   /* display: none; */
