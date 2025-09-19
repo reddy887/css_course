@@ -45,8 +45,17 @@ div {
 }
 .stic {
   background-color: aliceblue;
+  box-shadow: inset 0px -4px 10px red, inset 4px 4px 10px blue;
   position: sticky;
   top: 20px;
+}
+button {
+  cursor: pointer;
+  border-radius: 40%;
+  position: sticky;
+  top: 40px;
+  background-color: blue;
+  color: black;
 }
 h1 {
   /* display: none; */
