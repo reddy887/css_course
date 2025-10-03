@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+  text-shadow: -4px -4px 10px red;
+  background-color: blue;
+}
+h1:hover {
+  transform: translate(15px, 20px);
+}
