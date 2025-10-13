@@ -7,8 +7,19 @@ h1 {
   text-align: center;
   text-shadow: -4px -4px 10px red;
   background-color: blue;
-  /* transform: translate(15px, 20px); */
+  /* transform: translate(15px, 20px);1 */
 }
 h1:hover {
   transform: translate(15px, 20px);
 }
+.box {
+  background-color: red;
+  height: 45px;
+  width: 45px;
+  transition: transform 4s ease;
+  transform: translate(100px, 50px);
+  /* margin: 50px auto; */
+}
+/* .box:hover {
+  transform: rotate(18deg) scale(1.2);
+} */
