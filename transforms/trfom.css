@@ -16,10 +16,10 @@ h1:hover {
   background-color: red;
   height: 45px;
   width: 45px;
-  transition: transform 4s ease;
-  transform: translate(100px, 50px);
+  transition: transform 4s ease-in-out;
+  transform: translate(10px, 100px);
   /* margin: 50px auto; */
 }
-/* .box:hover {
-  transform: rotate(18deg) scale(1.2);
-} */
+.box:hover {
+  transform: rotate(135deg);
+}
