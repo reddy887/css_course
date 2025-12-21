@@ -58,8 +58,8 @@ button {
   color: black;
 }
 h1 {
-  /* display: none; */
-  /* visibility: hidden; */
-  /* text-shadow: 2px 2px 10px blue; */
-  /* text-shadow: 2px 2px 5px green; */
+  display: none;
+  visibility: hidden;
+  text-shadow: 2px 2px 10px blue;
+  text-shadow: 2px 2px 5px green;
 }
