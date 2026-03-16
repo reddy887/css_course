@@ -32,7 +32,7 @@ body {
 }
 .f1:hover {
   display: flex;
-  background-color: rgb(250, 196, 135);
+  background-color: rgb(156, 135, 250);
   border-radius: 10px;
   /* justify-content: space-between; */
   align-items: center;
