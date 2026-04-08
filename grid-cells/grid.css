@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  grid-template-rows: 100px 1fr;
+  gap: 10px;
+}
+.header {
+  background: orange;
+  grid-column: span 2;
+}
+.sidebar {
+  background: lightgreen;
+}
+.content {
+  background: lightcoral;
+}
